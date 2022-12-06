@@ -31,5 +31,10 @@
     height: 23px;
     margin-right: 10px;
 }
-
+.first-house {
+    width: 226px;
+    height: 337px;
+    position: relative;
+    background-color: #FFECBB;
+}
 
