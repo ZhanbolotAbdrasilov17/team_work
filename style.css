@@ -1,73 +1,86 @@
- 
-.box-yellow {
-    width: 23px;
-    height: 23px;
-    background-color: #FFECBB;
-    margin-right: 10px;
-}
-.First-block {
-    display: flex;
-    align-items: center;
-    
-}
-.blue {
-  width: 23px;
-  height: 23px;
-  background: #84CEF9;
-  margin-right: 10px;
-}
-.second-name{
-  display: flex;
-  align-items: center;
-}
-.third_name{
-    display: flex;
-    align-items: center;
-}
+ .box-yellow {
+   width: 23px;
+   height: 23px;
+   background-color: #FFECBB;
+   margin-right: 10px;
+ }
 
-.purple{
-    background: #E7C1F9;
-    width: 23px;
-    height: 23px;
-    margin-right: 10px;
-}
-.yellow-house {
-    width: 226px;
-    height: 337px;
-    position: relative;
-    background-color: #FFECBB;
-}
+ .First-block {
+   display: flex;
+   align-items: center;
 
-.yellow-house-window1{
-    position: absolute;
-    width: 55px;
-    height: 56px;
-    left: 31px;
-    top: 32px;
+ }
 
-    background: #E7C1F9;
-}
+ .blue {
+   width: 23px;
+   height: 23px;
+   background: #84CEF9;
+   margin-right: 10px;
+ }
 
-.yellow-house-window2{
-    position: absolute;
-    width: 55px;
-    height: 56px;
+ .second-name {
+   display: flex;
+   align-items: center;
+ }
 
-    right: 26px;
-    top: 119px;
+ .third_name {
+   display: flex;
+   align-items: center;
+ }
 
-    background: #E7C1F9;
-}
+ .purple {
+   background: #E7C1F9;
+   width: 23px;
+   height: 23px;
+   margin-right: 10px;
+ }
 
-.yellow-house-window3{
-    position: absolute;
-    width: 55px;
-    height: 56px;
+ .yellow-house {
+   width: 226px;
+   height: 337px;
+   position: relative;
+   background-color: #FFECBB;
+ }
 
-    left: 37px;
-    bottom: 113px;
+ .yellow-house-window1 {
+   position: absolute;
+   width: 55px;
+   height: 56px;
+   left: 31px;
+   top: 32px;
+
+   background: #E7C1F9;
+ }
+
+ .yellow-house-window2 {
+   position: absolute;
+   width: 55px;
+   height: 56px;
+
+   right: 26px;
+   top: 119px;
+
+   background: #E7C1F9;
+ }
+
+ .yellow-house-window3 {
+   position: absolute;
+   width: 55px;
+   height: 56px;
+
+   left: 37px;
+   bottom: 113px;
 
 
-    background: #E7C1F9;
-}
+   background: #E7C1F9;
+ }
 
+ .blue-door {
+   position: absolute;
+   width: 57px;
+   height: 81px;
+   left: 126px;
+   top: 256px;
+
+   background: #84CEF9;
+ }
