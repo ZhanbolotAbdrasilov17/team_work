@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .blue {
   width: 23px;
   height: 23px;
@@ -8,3 +9,17 @@
   display: flex;
   align-items: center;
 }
+=======
+.third_name{
+    display: flex;
+    align-items: center;
+}
+
+.purple{
+    background: #E7C1F9;
+    width: 23px;
+    height: 23px;
+    margin-right: 10px;
+}
+
+>>>>>>> 25de5a002e917e8658b94ec85c21246fe79e28e5
