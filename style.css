@@ -1,0 +1,10 @@
+.blue {
+  width: 23px;
+  height: 23px;
+  background: #84CEF9;
+  margin-right: 10px;
+}
+.second-name{
+  display: flex;
+  align-items: center;
+}
