@@ -1,0 +1,11 @@
+.box-yellow {
+    width: 23px;
+    height: 23px;
+    background-color: #FFECBB;
+    margin-right: 10px;
+}
+.First-block {
+    display: flex;
+    align-items: center;
+    
+}
