@@ -1,3 +1,8 @@
+.third_name{
+    display: flex;
+    align-items: center;
+}
+
 .purple{
     background: #E7C1F9;
     width: 23px;
@@ -5,7 +10,3 @@
     margin-right: 10px;
 }
 
-.third_name{
-    display: flex;
-    align-items: center;
-}
