@@ -38,3 +38,35 @@
     background-color: #FFECBB;
 }
 
+.yellow-house-window1{
+    position: absolute;
+    width: 55px;
+    height: 56px;
+    left: 31px;
+    top: 32px;
+
+    background: #E7C1F9;
+}
+
+.yellow-house-window2{
+    position: absolute;
+    width: 55px;
+    height: 56px;
+
+    right: 26px;
+    top: 119px;
+
+    background: #E7C1F9;
+}
+
+.yellow-house-window3{
+    position: absolute;
+    width: 55px;
+    height: 56px;
+
+    left: 37px;
+    bottom: 113px;
+
+
+    background: #E7C1F9;
+}
