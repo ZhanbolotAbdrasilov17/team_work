@@ -84,7 +84,10 @@
 
    background: #84CEF9;
  }
+<<<<<<< HEAD
  
+=======
+>>>>>>> b1754f30519231d2fbb597ceab7e66a7a2594611
 
  .purple-house {
    width: 217px;
@@ -147,6 +150,7 @@
    left: 122px;
    top: 190px;
    background: #84CEF9;
+<<<<<<< HEAD
  }
  .yellow-door {
   position: absolute;
@@ -156,3 +160,6 @@
   top: 299px;
   background-color: #FFECBB;
  }
+=======
+ }
+>>>>>>> b1754f30519231d2fbb597ceab7e66a7a2594611
