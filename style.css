@@ -188,3 +188,12 @@
   left: 23px;
 
 }
+
+.purple-door{
+  width: 55px;
+  height: 127px;
+  left: 112px;
+  bottom: 0;
+  position: absolute;
+  background: #E7C1F9;  
+}
