@@ -148,3 +148,11 @@
    top: 190px;
    background: #84CEF9;
  }
+ .yellow-door {
+  position: absolute;
+  width: 44px;
+  height: 81px;
+  left: 75px;
+  top: 299px;
+  background-color: #FFECBB;
+ }
