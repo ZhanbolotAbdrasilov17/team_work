@@ -85,3 +85,66 @@
    background: #84CEF9;
  }
  
+
+ .purple-house {
+   width: 217px;
+   height: 380px;
+   background: #E7C1F9;
+   position: relative;
+
+ }
+
+ .blue-house-window1 {
+   position: absolute;
+   width: 46px;
+   height: 47px;
+   left: 23px;
+   top: 43px;
+   background: #84CEF9;
+ }
+
+ .blue-house-window2 {
+   position: absolute;
+   width: 46px;
+   height: 47px;
+   left: 114px;
+   top: 43px;
+   background: #84CEF9;
+ }
+
+ .blue-house-window3 {
+   position: absolute;
+   width: 46px;
+   height: 47px;
+   left: 40px;
+   top: 114px;
+   background: #84CEF9;
+ }
+
+
+ .blue-house-window4 {
+   position: absolute;
+   width: 46px;
+   height: 47px;
+   left: 131px;
+   top: 114px;
+   background: #84CEF9;
+ }
+
+ .blue-house-window5 {
+   position: absolute;
+   width: 46px;
+   height: 47px;
+   left: 31px;
+   top: 190px;
+   background: #84CEF9;
+ }
+
+ .blue-house-window6 {
+   position: absolute;
+   width: 46px;
+   height: 47px;
+   left: 122px;
+   top: 190px;
+   background: #84CEF9;
+ }
