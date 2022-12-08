@@ -147,6 +147,7 @@
    top: 190px;
    background: #84CEF9;
  }
+<<<<<<< HEAD
  .yellow-door {
    position: absolute;
    width: 44px;
@@ -155,3 +156,12 @@
    top: 299px;
    background-color: #FFECBB;
  }
+=======
+ 
+ .blue-house {
+  width: 247px;
+  height: 351px;
+  background: #84CEF9;
+  position: relative;
+}
+>>>>>>> blue
