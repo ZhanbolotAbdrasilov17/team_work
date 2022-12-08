@@ -93,7 +93,7 @@
 
  }
 
- .blue-house-window1 {
+ .purple-house-window1 {
    position: absolute;
    width: 46px;
    height: 47px;
@@ -102,7 +102,7 @@
    background: #84CEF9;
  }
 
- .blue-house-window2 {
+ .purple-house-window2 {
    position: absolute;
    width: 46px;
    height: 47px;
@@ -111,7 +111,7 @@
    background: #84CEF9;
  }
 
- .blue-house-window3 {
+ .purple-house-window3 {
    position: absolute;
    width: 46px;
    height: 47px;
@@ -121,7 +121,7 @@
  }
 
 
- .blue-house-window4 {
+ .purple-house-window4 {
    position: absolute;
    width: 46px;
    height: 47px;
@@ -130,7 +130,7 @@
    background: #84CEF9;
  }
 
- .blue-house-window5 {
+ .purple-house-window5 {
    position: absolute;
    width: 46px;
    height: 47px;
@@ -139,7 +139,7 @@
    background: #84CEF9;
  }
 
- .blue-house-window6 {
+ .purple-house-window6 {
    position: absolute;
    width: 46px;
    height: 47px;
@@ -163,4 +163,28 @@
   background: #84CEF9;
   position: relative;
 }
+.blue-house-window1 {
+  background-color: #FFECBB;
+  width: 62px;
+  height: 66px;
+  position: absolute;
+  top: 33px;
+  left: 23px;
+}
+.blue-house-window2 {
+  background-color: #FFECBB;
+  position: absolute;
+  width: 82px;
+  height: 108px;
+  top: 33px;
+  left: 140px;
+}
+.blue-house-window3 {
+  background-color: #FFECBB;
+  position: absolute;
+  width: 62px;
+  height: 66px;
+  top: 176px;
+  left: 23px;
 
+}
